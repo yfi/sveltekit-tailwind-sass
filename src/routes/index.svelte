@@ -11,6 +11,4 @@
         @apply bg-red-100 bg-opacity-75 h-96;
     }
 
-    
-
 </style>
